@@ -88,8 +88,7 @@ For more information, see the :doc:`test documentation <tests>`.
 
 Front-end tests
 ---------------
-To run the front-end (selenium) tests, see :doc:`Client-side Testing with
-Intern <tests-ui>`.
+To run the front-end (selenium) tests, see :doc:`Client-side Testing <tests-ui>`.
 
 Kumascript tests
 ----------------
